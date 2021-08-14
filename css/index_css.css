@@ -1,0 +1,58 @@
+
+.main {
+  background: url(https://images.pexels.com/photos/845451/pexels-photo-845451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat center;
+  background-size: cover;
+  /* color: rgb(6, 1, 20); */
+  color: rgb(43, 36, 36);
+  height: auto;
+  text-align: center;
+}
+
+.main h1 {
+  font-family: "Times New Roman", Times, serif;
+
+
+}
+
+
+
+.customers div img {
+  height: 300px;
+}
+
+
+.customers {
+  margin-top: -50px;
+  padding: 0px;
+  color: white;
+}
+
+
+.customers div {
+
+  background-color: rgb(43, 36, 36);
+  /* padding: 0px; */
+  text-align: center;
+  /* border-bottom: 2px solid black; */
+  color: white;
+
+}
+
+h3 {
+  color: white;
+}
+
+footer div a {
+
+  text-decoration: none;
+  color: white;
+  line-height: 20px;
+
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+

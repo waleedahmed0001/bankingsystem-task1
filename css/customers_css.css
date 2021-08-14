@@ -1,0 +1,44 @@
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  background-color: white;
+  border: 1px solid #ddd;
+  
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+  font-family: "Times New Roman", Times, serif;
+ 
+}
+
+tr{
+  border:2px solid #D2CBC9;
+}
+
+
+button {
+
+padding: 7px 13px;  
+
+}
+
+
+a{
+  text-decoration: none;
+    color: white;
+}
+
+
+footer div a{
+  
+  text-decoration: none;
+  color: white;
+  line-height: 20px;
+  
+}
+
+
+

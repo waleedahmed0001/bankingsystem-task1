@@ -1,0 +1,55 @@
+
+
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  background-color: white;
+  border: 1px ;
+  
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+  /* font-size:20px */
+ 
+}
+
+tr{
+  border:1px ;
+}
+
+
+button {
+
+padding: 7px 13px;  
+
+
+}
+
+input,select{
+  height: 30px;
+}
+
+
+a{
+  text-decoration: none;
+    color: white;
+}
+
+
+
+footer div a{
+  
+  text-decoration: none;
+  color: white;
+  line-height: 20px;
+  
+}
+
+
+
+
+
+
